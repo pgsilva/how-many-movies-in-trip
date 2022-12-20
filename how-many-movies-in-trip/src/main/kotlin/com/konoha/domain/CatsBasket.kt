@@ -1,6 +1,6 @@
 @file:JvmName("CatsBasket")
 
-package domain
+package com.konoha.domain
 
 const val EARTH_RADIUS_KM: Double = 6372.8
 const val PLANE_AVERAGE_SPEED_KM_H: Double = 800.0

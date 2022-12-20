@@ -1,5 +1,6 @@
-package domain
+package com.konoha.domain
 
+import com.konoha.domain.*
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 
